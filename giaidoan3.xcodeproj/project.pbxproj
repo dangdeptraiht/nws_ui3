@@ -16,6 +16,9 @@
 		886269762C6CEBD0001334C7 /* giaidoan3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886269752C6CEBD0001334C7 /* giaidoan3Tests.swift */; };
 		886269802C6CEBD0001334C7 /* giaidoan3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8862697F2C6CEBD0001334C7 /* giaidoan3UITests.swift */; };
 		886269822C6CEBD0001334C7 /* giaidoan3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886269812C6CEBD0001334C7 /* giaidoan3UITestsLaunchTests.swift */; };
+		88F1F0C62C6DAE2200E456C1 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F1F0C52C6DAE2200E456C1 /* FirstViewController.swift */; };
+		88F1F0C82C6DB84700E456C1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F1F0C72C6DB84700E456C1 /* SecondViewController.swift */; };
+		88F1F0CA2C6DDAD900E456C1 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88F1F0C92C6DDAD900E456C1 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		8862697B2C6CEBD0001334C7 /* giaidoan3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = giaidoan3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8862697F2C6CEBD0001334C7 /* giaidoan3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giaidoan3UITests.swift; sourceTree = "<group>"; };
 		886269812C6CEBD0001334C7 /* giaidoan3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = giaidoan3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		88F1F0C52C6DAE2200E456C1 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		88F1F0C72C6DB84700E456C1 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		88F1F0C92C6DDAD900E456C1 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				8862695E2C6CEBCF001334C7 /* AppDelegate.swift */,
 				886269602C6CEBCF001334C7 /* SceneDelegate.swift */,
 				886269622C6CEBCF001334C7 /* ViewController.swift */,
+				88F1F0C52C6DAE2200E456C1 /* FirstViewController.swift */,
+				88F1F0C72C6DB84700E456C1 /* SecondViewController.swift */,
+				88F1F0C92C6DDAD900E456C1 /* ThirdViewController.swift */,
 				886269642C6CEBCF001334C7 /* Main.storyboard */,
 				886269672C6CEBD0001334C7 /* Assets.xcassets */,
 				886269692C6CEBD0001334C7 /* LaunchScreen.storyboard */,
@@ -261,6 +270,9 @@
 				886269632C6CEBCF001334C7 /* ViewController.swift in Sources */,
 				8862695F2C6CEBCF001334C7 /* AppDelegate.swift in Sources */,
 				886269612C6CEBCF001334C7 /* SceneDelegate.swift in Sources */,
+				88F1F0C82C6DB84700E456C1 /* SecondViewController.swift in Sources */,
+				88F1F0CA2C6DDAD900E456C1 /* ThirdViewController.swift in Sources */,
+				88F1F0C62C6DAE2200E456C1 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
